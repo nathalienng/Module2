@@ -110,3 +110,5 @@ p {
     width: 100%;
   }
 }
+/********** Small devices only **********/
+/**********Mobile view should appear only if the width of the browser is equal to or less than 767px/**********
